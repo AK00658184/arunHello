@@ -1,2 +1,1 @@
 master tech
-learn
